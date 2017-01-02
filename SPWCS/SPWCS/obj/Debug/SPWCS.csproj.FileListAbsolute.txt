@@ -1,0 +1,776 @@
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Habrat\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Habrat\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Git\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\habr2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\Projekty\SWLC\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\Projekty\SWLC\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\duban\Desktop\temp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\Nowy folder (8)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+D:\Projekty\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.application
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+D:\Projekty\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\duban\Desktop\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\duban\Desktop\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\act5\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+D:\habr\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Projekt2\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\zp\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\projektUpload\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\branczMovetoArchive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\automatic archive\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\duban\Desktop\lel\SPWCS\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Users\KK\Desktop\Nowy folder (6)\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Projekt\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\last\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\projektSystemPlanowania\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\itextsharp.dll
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\yghj\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\itextsharp.dll
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+D:\habr3\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\itextsharp.dll
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+C:\Users\KK\Desktop\habrat\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.config
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.pdb
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB.mdf
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\DB_log.ldf
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe.manifest
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.application
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.exe
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\SPWCS.pdb
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.dll
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.dll
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\itextsharp.dll
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.xml
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\bin\Debug\EntityFramework.SqlServer.xml
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csprojResolveAssemblyReference.cache
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AccessPermission.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddEvent.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.AddUser.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Archive.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.CheckReservation.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteEvent.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.DeleteUser.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.EventManagement.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.ModifyEvent.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.MoveToArchive.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.User.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Login.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.Properties.Resources.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.UsersManagement.resources
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.csproj.GenerateResource.Cache
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.TrustInfo.xml
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.exe.manifest
+D:\na githuba\system_planowania_w_centrum_szkoleniowym\SPWCS\SPWCS\obj\Debug\SPWCS.application
